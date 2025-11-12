@@ -7,5 +7,4 @@ Tools I Used
 SQL | Python | Jupyter Notebook | Pandas | Matplotlib | Seaborn
 
 Download
-
-Check out the PDF here: Download Project PDF
+Download Project PDF
