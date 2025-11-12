@@ -1,10 +1,14 @@
-E-Commerce Sales Analysis 🛍️
+# E-Commerce Project
 
-Explored real e-commerce sales to find patterns and trends. This repository contains a PDF report showing top-selling products, customer insights, and overall sales performance using SQL and Python.
+## About
+This project analyzes e-commerce sales data to find trends and patterns in sales, products, and customer behavior. It uses **SQL** to query the data and **Python (Jupyter Notebook)** for visualization.
 
-Tools I Used
+## Tools
+- Python  
+- SQL  
+- Jupyter Notebook  
+- Pandas, Matplotlib, Seaborn  
 
-SQL | Python | Jupyter Notebook | Pandas | Matplotlib | Seaborn
-
-Download
-Download Project PDF
+## Project Report
+You can view the full project report here:  
+[📄 View Project Report](https://github.com/username/repo-name/raw/main/E-commerce%20sales%20project%20(1).pdf)
