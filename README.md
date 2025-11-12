@@ -11,4 +11,4 @@ This project analyzes e-commerce sales data to find trends and patterns in sales
 
 ## Project Report
 You can view the full project report here:  
-[📄 View Project Report](https://github.com/username/repo-name/raw/main/E-commerce%20sales%20project%20(1).pdf)
+[📄 View Project Report](https://github.com/rakhikumari429/E-Commerce-Sales-Analysis-Project/raw/main/E-COMMERCE%20SALES%20PROJECT%20%281%29.pdf)
